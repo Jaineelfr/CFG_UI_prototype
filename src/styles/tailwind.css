@@ -1,0 +1,13 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@import 'tw-animate-css';
+
+/* Cameras For Girls Brand Colors */
+@theme {
+  --color-coral: #E85D4C;
+  --color-warmPink: #E07A8B;
+  --color-warmPurple: #9B7EBD;
+  --color-teal: #4DB8A8;
+  --color-gold: #F7C948;
+}
